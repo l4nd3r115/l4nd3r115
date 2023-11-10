@@ -31,7 +31,7 @@ A **WEB DEVELOPMENT** and **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
 **Experience**
 
 - Freelance - **2021 - 2022**
-- <a href="glyanec.net">Glyanec.net</a> - **2023 - now**
+- <a href="https://glyanec.net">Glyanec.net</a> - **2023 - now**
 
 **My languages i can speak on**
 
