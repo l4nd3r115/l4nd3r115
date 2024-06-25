@@ -32,7 +32,7 @@ A **WEB DEVELOPMENT** and **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - Freelance - **2021 - 2022**
 - <a href="https://glyanec.net">Glyanec.net</a> - **July 2023 - February 2023**
-- Golden time (Advertisement company) - **February 2023 - Now**
+- NE Team (Advertisement team) - **February 2023 - Now**
 
 **My languages i can speak on**
 
