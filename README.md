@@ -1,9 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Anton!</h3>
 
-
-<a href="https://www.instagram.com/vtrnnt_/">
-  <img align="left" alt="Anton's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/black/white" />
-</a>
 <a href="t.me/l4nd3r115">
   <img align="left" alt="Anton's Telegram" width="24px" src="https://cdn.simpleicons.org/telegram/black/white" />
 </a>
@@ -50,7 +46,6 @@ A **WEB DEVELOPMENT** and **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="35" src="https://cdn.simpleicons.org/javascript/black/white"></code>
 <code><img height="35" src="https://cdn.simpleicons.org/html5/black/white"></code>
 <code><img height="35" src="https://cdn.simpleicons.org/css3/black/white"></code>
-<code><img height="35" src="https://cdn.simpleicons.org/csharp/black/white"></code>
 
 <code><img height="35" src="https://cdn.simpleicons.org/mysql/black/white"></code>
 <code><img height="35" src="https://cdn.simpleicons.org/sqlite/black/white"></code>
